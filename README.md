@@ -82,11 +82,9 @@ Input your Twitter developer credentials and click Continue.
 
 ![input_credentials](https://user-images.githubusercontent.com/44107852/215883476-e17b19fc-e35e-421e-adeb-7c3cc1132787.jpg)
 
-Input some keyword and click Search.  
+Input some keyword and click Search. The three most recents tweets are showed.   
 
 ![window_search](https://user-images.githubusercontent.com/44107852/215883553-2d29cbaa-dbaa-473f-b2d5-76731cf0741f.jpg)
-
-The three most recents tweets are showed.  
 
 Select a visualization and click Plot Visualization.  
 
